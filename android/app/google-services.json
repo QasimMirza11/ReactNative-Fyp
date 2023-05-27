@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151835646425",
+    "firebase_url": "https://j2echat-default-rtdb.firebaseio.com",
+    "project_id": "j2echat",
+    "storage_bucket": "j2echat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151835646425:android:5e04c51e7f9c026772a1c8",
+        "android_client_info": {
+          "package_name": "com.j2e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151835646425-c5o1rbrntc4t99s5juk9neh6r3k8jg3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHNDWxPMhOh5uPAsVrKScZwgKZ7a18kuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151835646425-c5o1rbrntc4t99s5juk9neh6r3k8jg3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
